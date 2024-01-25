@@ -1,0 +1,15 @@
+#container {
+  display: flex;
+}
+
+.row {
+  display: flex;
+}
+
+.square {
+  display: flex;
+  height: 40px;
+  width: 40px;
+  margin: 2px;
+  background-color: gray;
+}
