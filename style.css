@@ -1,15 +1,15 @@
+#number {
+  margin-bottom: 20px;
+}
+
 #container {
   display: flex;
 }
 
-.row {
-  display: flex;
+.square {
+  background-color: gray;
 }
 
-.square {
-  display: flex;
-  height: 40px;
-  width: 40px;
-  margin: 2px;
-  background-color: gray;
+.square:hover {
+  background-color: red;
 }
